@@ -14,6 +14,7 @@ namespace ConsoleApp1
 
         public void CheckOutBook(string isbn) { }
         public void ReturnBook(string isbn) { }
+        public void EditBook(string isbn) { }
 
         public List<Book> ListAvailableBooks()
         {
